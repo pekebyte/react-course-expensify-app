@@ -14,6 +14,6 @@ exports[`should render ExpenseList with expenses 1`] = `
   Viewing 
   3
    expenses totalling
-  $114,195.00
+  $1,141.95
 </div>
 `;
